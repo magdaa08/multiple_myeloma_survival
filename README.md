@@ -1,1 +1,3 @@
-# multiple_myeloma_survival
+# Machine Learning @NOVA : Multiple myeloma survival
+
+Project for ML class @ NOVA FCT Assignment 2
